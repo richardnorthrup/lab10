@@ -14,4 +14,4 @@ I wrote sudo service mongo start which actually runs it in the background, cp2 s
 
 # Checkpoint 5
 
-This is complicated, I'll try to figure out how to do this part and if I can't I'll leave this message here.
+This is complicated and im not even sure what the directions are asking, I'll try to figure out how to do this part and if I can't I'll leave this message here.
